@@ -1,0 +1,82 @@
+[
+  {
+    "id": "25f3ed4d-1e6d-4fe2-9a6e-7b41a356d258",
+    "name": "Bentlee Kelsall",
+    "role": "player",
+    "avatar": "http://dummyimage.com/152x103.bmp/5fa2dd/ffffff",
+    "events": [],
+    "proposals": []
+  },
+  {
+    "id": "57c3bf62-1183-4ac7-b3e8-eaadbbfbeb6d",
+    "name": "Rosco Queree",
+    "role": "player",
+    "avatar": "http://dummyimage.com/127x156.jpg/5fa2dd/ffffff",
+    "events": [],
+    "proposals": []
+  },
+  {
+    "id": "fef43a8c-3075-4c72-a2e1-70ba865ebd53",
+    "name": "Tarrance Bowland",
+    "role": "player",
+    "avatar": "http://dummyimage.com/106x181.png/5fa2dd/ffffff",
+    "events": [],
+    "proposals": []
+  },
+  {
+    "id": "1ededb75-85e1-403c-8b39-5054989ce250",
+    "name": "Toma Buttle",
+    "role": "player",
+    "avatar": "http://dummyimage.com/131x211.png/5fa2dd/ffffff",
+    "events": [],
+    "proposals": []
+  },
+  {
+    "id": "b9cb1af3-248f-493c-b733-9c6b25e66c89",
+    "name": "Graehme Glassard",
+    "role": "player",
+    "avatar": "http://dummyimage.com/173x240.png/ff4444/ffffff",
+    "events": [],
+    "proposals": []
+  },
+  {
+    "id": "56f4e575-7f1d-4a4a-b1a3-61aced3a3c02",
+    "name": "Rance Ormrod",
+    "role": "admin",
+    "avatar": "http://dummyimage.com/212x140.bmp/cc0000/ffffff",
+    "events": [],
+    "proposals": []
+  },
+  {
+    "id": "2fcf5b69-256e-4c4f-a014-a8338eb48b97",
+    "name": "Peri Dearman",
+    "role": "admin",
+    "avatar": "http://dummyimage.com/168x156.png/dddddd/000000",
+    "events": [],
+    "proposals": []
+  },
+  {
+    "id": "4944562e-7ae9-4eef-ada9-ba37dea76a3e",
+    "name": "Cathleen Linke",
+    "role": "player",
+    "avatar": "http://dummyimage.com/192x216.jpg/5fa2dd/ffffff",
+    "events": [],
+    "proposals": []
+  },
+  {
+    "id": "e6ccabc3-36b2-4e69-af2b-b71b2729eeaa",
+    "name": "Hillie Jeary",
+    "role": "player",
+    "avatar": "http://dummyimage.com/198x204.bmp/cc0000/ffffff",
+    "events": [],
+    "proposals": []
+  },
+  {
+    "id": "fdf6ed61-c5b9-4b86-98e5-d96b549017b9",
+    "name": "Karilynn Kaemena",
+    "role": "player",
+    "avatar": "http://dummyimage.com/164x232.bmp/cc0000/ffffff",
+    "events": [],
+    "proposals": []
+  }
+]

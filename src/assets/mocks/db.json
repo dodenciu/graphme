@@ -1,0 +1,628 @@
+{
+  "events": [
+    {
+      "id": "eafcdcac-56af-469e-bcbb-9bb160c9ff3d",
+      "type": "other",
+      "name": "Matsoft",
+      "date": "2020-11-05T20:38:24Z",
+      "users": [
+        {
+          "id": "25f3ed4d-1e6d-4fe2-9a6e-7b41a356d258",
+          "name": "Bentlee Kelsall",
+          "role": "player",
+          "avatar": "http://dummyimage.com/152x103.bmp/5fa2dd/ffffff",
+          "events": [],
+          "proposals": []
+        },
+        {
+          "id": "57c3bf62-1183-4ac7-b3e8-eaadbbfbeb6d",
+          "name": "Rosco Queree",
+          "role": "player",
+          "avatar": "http://dummyimage.com/127x156.jpg/5fa2dd/ffffff",
+          "events": [],
+          "proposals": []
+        },
+        {
+          "id": "fef43a8c-3075-4c72-a2e1-70ba865ebd53",
+          "name": "Tarrance Bowland",
+          "role": "player",
+          "avatar": "http://dummyimage.com/106x181.png/5fa2dd/ffffff",
+          "events": [],
+          "proposals": []
+        },
+        {
+          "id": "1ededb75-85e1-403c-8b39-5054989ce250",
+          "name": "Toma Buttle",
+          "role": "player",
+          "avatar": "http://dummyimage.com/131x211.png/5fa2dd/ffffff",
+          "events": [],
+          "proposals": []
+        },
+        {
+          "id": "b9cb1af3-248f-493c-b733-9c6b25e66c89",
+          "name": "Graehme Glassard",
+          "role": "player",
+          "avatar": "http://dummyimage.com/173x240.png/ff4444/ffffff",
+          "events": [],
+          "proposals": []
+        },
+        {
+          "id": "56f4e575-7f1d-4a4a-b1a3-61aced3a3c02",
+          "name": "Rance Ormrod",
+          "role": "admin",
+          "avatar": "http://dummyimage.com/212x140.bmp/cc0000/ffffff",
+          "events": [],
+          "proposals": []
+        },
+        {
+          "id": "2fcf5b69-256e-4c4f-a014-a8338eb48b97",
+          "name": "Peri Dearman",
+          "role": "admin",
+          "avatar": "http://dummyimage.com/168x156.png/dddddd/000000",
+          "events": [],
+          "proposals": []
+        },
+        {
+          "id": "4944562e-7ae9-4eef-ada9-ba37dea76a3e",
+          "name": "Cathleen Linke",
+          "role": "player",
+          "avatar": "http://dummyimage.com/192x216.jpg/5fa2dd/ffffff",
+          "events": [],
+          "proposals": []
+        },
+        {
+          "id": "e6ccabc3-36b2-4e69-af2b-b71b2729eeaa",
+          "name": "Hillie Jeary",
+          "role": "player",
+          "avatar": "http://dummyimage.com/198x204.bmp/cc0000/ffffff",
+          "events": [],
+          "proposals": []
+        },
+        {
+          "id": "fdf6ed61-c5b9-4b86-98e5-d96b549017b9",
+          "name": "Karilynn Kaemena",
+          "role": "player",
+          "avatar": "http://dummyimage.com/164x232.bmp/cc0000/ffffff",
+          "events": [],
+          "proposals": []
+        }
+      ],
+      "proposals": [
+        {
+          "id": "71d8a73d-a36a-4d36-9e9e-6cd316ebc29f",
+          "user": {
+            "id": "25f3ed4d-1e6d-4fe2-9a6e-7b41a356d258",
+            "name": "Bentlee Kelsall",
+            "role": "player",
+            "avatar": "http://dummyimage.com/152x103.bmp/5fa2dd/ffffff",
+            "events": [],
+            "proposals": []
+          },
+          "event": {
+            "id": "eafcdcac-56af-469e-bcbb-9bb160c9ff3d"
+          },
+          "team": [
+            {
+              "id": "25f3ed4d-1e6d-4fe2-9a6e-7b41a356d258",
+              "name": "Bentlee Kelsall",
+              "role": "player",
+              "avatar": "http://dummyimage.com/152x103.bmp/5fa2dd/ffffff",
+              "events": [],
+              "proposals": []
+            },
+            {
+              "id": "57c3bf62-1183-4ac7-b3e8-eaadbbfbeb6d",
+              "name": "Rosco Queree",
+              "role": "player",
+              "avatar": "http://dummyimage.com/127x156.jpg/5fa2dd/ffffff",
+              "events": [],
+              "proposals": []
+            },
+            {
+              "id": "fef43a8c-3075-4c72-a2e1-70ba865ebd53",
+              "name": "Tarrance Bowland",
+              "role": "player",
+              "avatar": "http://dummyimage.com/106x181.png/5fa2dd/ffffff",
+              "events": [],
+              "proposals": []
+            }
+          ],
+          "otherTeam": [
+            {
+              "id": "e6ccabc3-36b2-4e69-af2b-b71b2729eeaa",
+              "name": "Hillie Jeary",
+              "role": "player",
+              "avatar": "http://dummyimage.com/198x204.bmp/cc0000/ffffff",
+              "events": [],
+              "proposals": []
+            },
+            {
+              "id": "fdf6ed61-c5b9-4b86-98e5-d96b549017b9",
+              "name": "Karilynn Kaemena",
+              "role": "player",
+              "avatar": "http://dummyimage.com/164x232.bmp/cc0000/ffffff",
+              "events": [],
+              "proposals": []
+            }
+          ],
+          "votes": 6
+        },
+        {
+          "id": "fa8a9ddb-68fe-460c-8c78-2ececcb5394f",
+          "user": {
+            "id": "25f3ed4d-1e6d-4fe2-9a6e-7b41a356d258",
+            "name": "Bentlee Kelsall",
+            "role": "player",
+            "avatar": "http://dummyimage.com/152x103.bmp/5fa2dd/ffffff",
+            "events": [],
+            "proposals": []
+          },
+          "event": null,
+          "team": [],
+          "otherTeam": [],
+          "votes": 3
+        }
+      ]
+    },
+    {
+      "id": "f1676c7b-da5d-4e0e-9613-04ccd16b4f3a",
+      "type": "footbal",
+      "name": "Trippledex",
+      "date": "2020-07-23T02:20:56Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "b73843ba-d2cb-49f5-8727-cbe594c69d0a",
+      "type": "other",
+      "name": "Overhold",
+      "date": "2020-04-12T19:56:53Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "f2f375c0-341d-4093-8009-bb99ce006d38",
+      "type": "footbal",
+      "name": "Holdlamis",
+      "date": "2020-11-14T11:07:46Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "37ac0025-322d-4b14-aaf0-6efb3772bdca",
+      "type": "footbal",
+      "name": "Veribet",
+      "date": "2019-11-03T21:33:23Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "e5301266-ca31-4b8f-ac74-e25fcad9b1a7",
+      "type": "other",
+      "name": "Biodex",
+      "date": "2020-05-20T16:09:14Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "2a23f408-86e2-41a6-89f0-a78f9c740889",
+      "type": "footbal",
+      "name": "Stim",
+      "date": "2020-06-29T06:35:02Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "2fcf812d-f0a7-430a-91c9-6a2860dd80e6",
+      "type": "other",
+      "name": "Home Ing",
+      "date": "2019-07-12T06:28:33Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "13a3fd01-d50c-4048-8066-9a1482a702d9",
+      "type": "other",
+      "name": "Treeflex",
+      "date": "2019-11-29T23:23:48Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "3ca423f0-df61-4d52-8475-46f689d708bb",
+      "type": "footbal",
+      "name": "Ronstring",
+      "date": "2020-12-02T21:29:48Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "5a5ba0c7-31ce-49d0-a7ec-21695e6b8c01",
+      "type": "other",
+      "name": "Flowdesk",
+      "date": "2020-12-18T19:51:15Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "7a54c9ca-a3c3-40ca-aa1f-198f27c0ff8a",
+      "type": "footbal",
+      "name": "Otcom",
+      "date": "2020-01-21T22:36:58Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "63cebe61-4ffc-4455-bfc1-41b21ae10edf",
+      "type": "footbal",
+      "name": "Redhold",
+      "date": "2020-12-09T00:21:50Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "56419303-17a0-4bf3-813a-d194b8dc69a8",
+      "type": "footbal",
+      "name": "Bitwolf",
+      "date": "2019-08-15T15:33:38Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "745a86c3-d0f9-4448-a42f-e21aa3184f9a",
+      "type": "footbal",
+      "name": "Treeflex",
+      "date": "2020-11-02T10:14:53Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "81d96ce6-3fc7-4d4f-9e72-bf5e4dd896fb",
+      "type": "footbal",
+      "name": "Prodder",
+      "date": "2019-05-13T14:06:53Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "8bd68a93-48ff-4c81-873c-5ef4d627a9c7",
+      "type": "footbal",
+      "name": "Gembucket",
+      "date": "2020-05-26T15:32:52Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "90e9068f-8aa2-49d1-a5b8-2cec08269afc",
+      "type": "footbal",
+      "name": "Alpha",
+      "date": "2019-04-11T15:30:12Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "eeec82c3-0535-4ca7-a125-0a27f2518f82",
+      "type": "other",
+      "name": "Greenlam",
+      "date": "2020-07-09T09:18:52Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "de84868b-3fec-4739-95a7-f0aab90c2933",
+      "type": "other",
+      "name": "Latlux",
+      "date": "2019-04-13T17:09:36Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "2a59c6a6-37cf-41db-bcc4-b500a963e1d3",
+      "type": "footbal",
+      "name": "Redhold",
+      "date": "2020-08-31T15:36:44Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "4d3bd7eb-7e4b-49d8-a8cd-782d4a702cf7",
+      "type": "other",
+      "name": "Ventosanzap",
+      "date": "2020-02-17T23:40:23Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "49053312-6be2-4a2c-9450-78a3ad3fcdfa",
+      "type": "footbal",
+      "name": "Tresom",
+      "date": "2020-08-31T23:52:25Z",
+      "users": [],
+      "proposals": []
+    },
+    {
+      "id": "d3ce6397-8ac9-43c4-ae7a-ef96b1868b85",
+      "type": "other",
+      "name": "Redhold",
+      "date": "2019-05-23T12:08:46Z",
+      "users": [],
+      "proposals": []
+    }
+  ],
+  "proposals": [
+    {
+      "id": "71d8a73d-a36a-4d36-9e9e-6cd316ebc29f",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 6
+    },
+    {
+      "id": "fa8a9ddb-68fe-460c-8c78-2ececcb5394f",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 3
+    },
+    {
+      "id": "b6c134ae-6cc6-4fd2-8c78-5e50133695e0",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 2
+    },
+    {
+      "id": "078d9125-10db-4c20-be8e-3d45e8e92997",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 0
+    },
+    {
+      "id": "56aa56ad-8c39-4f58-bcef-0fadead31dbe",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 5
+    },
+    {
+      "id": "4331541e-3af0-4203-95e6-4f37d5140349",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 2
+    },
+    {
+      "id": "308cfdf3-dd33-4ff1-8fdb-fe4c70abc229",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 3
+    },
+    {
+      "id": "ca023b75-325c-45ad-af10-1fb3bcf3f9ea",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 2
+    },
+    {
+      "id": "21125f38-f038-42ed-be4e-43c0ba328821",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 7
+    },
+    {
+      "id": "cf5e282c-eb0b-4430-8c04-3d86ffaa9626",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 3
+    },
+    {
+      "id": "1c62f97b-f4c1-4408-a0ef-5adb50a75c6d",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 2
+    },
+    {
+      "id": "8506236d-8aec-403a-b544-b3a7b22dd4db",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 6
+    },
+    {
+      "id": "c2505789-bca6-446c-854a-c07a036199fb",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 1
+    },
+    {
+      "id": "c97c35fe-88b3-428e-a298-a920cd0f8e0c",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 10
+    },
+    {
+      "id": "566b66b2-db70-4285-9572-b16ac07ac3dd",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 10
+    },
+    {
+      "id": "d74a2a36-875c-47d5-9dad-975f73864ebb",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 8
+    },
+    {
+      "id": "826ba93f-2747-4462-98c8-c681f8b71db8",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 0
+    },
+    {
+      "id": "aa813436-73c2-46e2-a4c9-ae8933eb3dde",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 5
+    },
+    {
+      "id": "ad5c98fa-7b93-45d8-b359-2adc74723ce3",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 8
+    },
+    {
+      "id": "cc44ea83-7d65-47de-9004-61f1102ae17a",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 5
+    },
+    {
+      "id": "96539d1e-4d36-43d6-8025-96b2300c9e11",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 4
+    },
+    {
+      "id": "1666ef91-34f8-4bce-9dd2-edcf5b17b928",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 1
+    },
+    {
+      "id": "b6507e75-9d2a-4406-a3f8-891d8fc0cf39",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 8
+    },
+    {
+      "id": "4dde6841-a37c-4194-91f9-ddc08456f059",
+      "user": null,
+      "event": null,
+      "team": [],
+      "otherTeam": [],
+      "votes": 1
+    }
+  ],
+  "users": [
+    {
+      "id": "25f3ed4d-1e6d-4fe2-9a6e-7b41a356d258",
+      "name": "Bentlee Kelsall",
+      "role": "player",
+      "avatar": "http://dummyimage.com/152x103.bmp/5fa2dd/ffffff",
+      "events": [],
+      "proposals": []
+    },
+    {
+      "id": "57c3bf62-1183-4ac7-b3e8-eaadbbfbeb6d",
+      "name": "Rosco Queree",
+      "role": "player",
+      "avatar": "http://dummyimage.com/127x156.jpg/5fa2dd/ffffff",
+      "events": [],
+      "proposals": []
+    },
+    {
+      "id": "fef43a8c-3075-4c72-a2e1-70ba865ebd53",
+      "name": "Tarrance Bowland",
+      "role": "player",
+      "avatar": "http://dummyimage.com/106x181.png/5fa2dd/ffffff",
+      "events": [],
+      "proposals": []
+    },
+    {
+      "id": "1ededb75-85e1-403c-8b39-5054989ce250",
+      "name": "Toma Buttle",
+      "role": "player",
+      "avatar": "http://dummyimage.com/131x211.png/5fa2dd/ffffff",
+      "events": [],
+      "proposals": []
+    },
+    {
+      "id": "b9cb1af3-248f-493c-b733-9c6b25e66c89",
+      "name": "Graehme Glassard",
+      "role": "player",
+      "avatar": "http://dummyimage.com/173x240.png/ff4444/ffffff",
+      "events": [],
+      "proposals": []
+    },
+    {
+      "id": "56f4e575-7f1d-4a4a-b1a3-61aced3a3c02",
+      "name": "Rance Ormrod",
+      "role": "admin",
+      "avatar": "http://dummyimage.com/212x140.bmp/cc0000/ffffff",
+      "events": [],
+      "proposals": []
+    },
+    {
+      "id": "2fcf5b69-256e-4c4f-a014-a8338eb48b97",
+      "name": "Peri Dearman",
+      "role": "admin",
+      "avatar": "http://dummyimage.com/168x156.png/dddddd/000000",
+      "events": [],
+      "proposals": []
+    },
+    {
+      "id": "4944562e-7ae9-4eef-ada9-ba37dea76a3e",
+      "name": "Cathleen Linke",
+      "role": "player",
+      "avatar": "http://dummyimage.com/192x216.jpg/5fa2dd/ffffff",
+      "events": [],
+      "proposals": []
+    },
+    {
+      "id": "e6ccabc3-36b2-4e69-af2b-b71b2729eeaa",
+      "name": "Hillie Jeary",
+      "role": "player",
+      "avatar": "http://dummyimage.com/198x204.bmp/cc0000/ffffff",
+      "events": [],
+      "proposals": []
+    },
+    {
+      "id": "fdf6ed61-c5b9-4b86-98e5-d96b549017b9",
+      "name": "Karilynn Kaemena",
+      "role": "player",
+      "avatar": "http://dummyimage.com/164x232.bmp/cc0000/ffffff",
+      "events": [],
+      "proposals": []
+    }
+  ]
+}

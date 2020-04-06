@@ -1,0 +1,3 @@
+<ul *ngIf="areEventsLoaded | async">
+  <li *ngFor="let event of dataService.events | async"><app-event [event]=event ></app-event></li>
+</ul>
